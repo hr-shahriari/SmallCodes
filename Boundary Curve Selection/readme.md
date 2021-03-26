@@ -5,3 +5,5 @@
 Not the best solution but the easiest one.\
 I used this for making boundary curves from Cad  details in order to use them in Honeybee THERM simulations since it made the job much much easier.
 Just place points in the regions you want to make the boundary curve for simulation and import those points in the grasshopper.
+
+![Alt Text](https://github.com/hr-shahriari/SmallCodes/blob/main/Boundary%20Curve%20Selection/boundary.gif)
